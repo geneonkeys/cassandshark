@@ -1,19 +1,13 @@
-import cassandsharkLogo from './assets/cassandshark.svg'
+import { BrowserRouter } from 'react-router-dom'
 import './App.css'
+import RootComponent from './RootComponent'
 
 function App() {
-  return (
-    <>
-      <div>
-        <h1>S&</h1>
-        <a href="mailto:hello@cassandshark.com" target="_blank">
-          <img src={cassandsharkLogo} className="logo react" alt="Cassandshark logo" />
-        </a>
-        <h1>SHARK.</h1>
-        Projects
-      </div>
-    </>
-  )
+    return (
+        <BrowserRouter>
+            <RootComponent />
+        </BrowserRouter>
+    )
 }
 
 export default App
