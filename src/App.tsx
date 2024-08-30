@@ -10,6 +10,7 @@ function App() {
           <img src={cassandsharkLogo} className="logo react" alt="Cassandshark logo" />
         </a>
         <h1>SHARK.</h1>
+        Projects
       </div>
     </>
   )
