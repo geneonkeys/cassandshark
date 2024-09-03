@@ -7,7 +7,7 @@ enum ContentType {
 
 const ART_CONTENT = [
     'Art Project 1',
-    'Art Project 2',
+    'Camp Spooky',
     'Art Project 3',
     'Art Project 4',
     'Art Project 5',
