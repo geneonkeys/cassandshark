@@ -6,7 +6,7 @@ const AboutPage: React.FC = () => {
             <div>
                 hi. I'm Cassandra, but I also go by Sand. I like sharks. That's where Sandshark comes from. My current base of operations is 📍Atlanta, GA.
             </div>
-            <div>Horizontal wavy rule</div>
+            <div>Wavy horizontal rule</div>
             <div>
                 I strive every day to learn something new – whether it’s about design, art, human psychology, or perfecting a chocolate chip cookie recipe. 🍪
             </div>
